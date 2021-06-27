@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "3ade71d41fe24d24094546828bc83f62"
+    "revision": "05b8b6343311da7dc7286c973968fa68"
   },
   {
     "url": "assets/css/0.styles.e5007594.css",
@@ -208,52 +208,52 @@ self.__precacheManifest = [
     "revision": "2b73b22baf14e1e662965da3aaf76e8b"
   },
   {
-    "url": "assets/js/app.752835e0.js",
-    "revision": "96e010b32f4edb784993be29f02918d4"
+    "url": "assets/js/app.8ec1669b.js",
+    "revision": "91ca30909abbd51896d008c9dce53615"
   },
   {
     "url": "config/index.html",
-    "revision": "80634741d2550b9a7e11def4f2598102"
+    "revision": "540c99d3f4dfab896b0fbcaafb5a41f9"
   },
   {
     "url": "default-theme-config/index.html",
-    "revision": "b1867ee6a62b2329f2ec3b9b713ef0df"
+    "revision": "27a90d9f2d593351d1ad2d3e315dfc92"
   },
   {
     "url": "guide/assets.html",
-    "revision": "4756738f3bc04358aba2ead86311d408"
+    "revision": "849aa00d46946399b6348beaf2989f52"
   },
   {
     "url": "guide/basic-config.html",
-    "revision": "12a3a24393ab46f017d808db01905677"
+    "revision": "a8dd5380285ab66cf172cb58d44a5cf1"
   },
   {
     "url": "guide/custom-themes.html",
-    "revision": "702dfc8407701a04dcb159c3e333a0e3"
+    "revision": "c846737287ced6e334a7e747955ef6c0"
   },
   {
     "url": "guide/deploy.html",
-    "revision": "223a406e767069d72dde904214aeb27c"
+    "revision": "dd3c0b72a80122b32f77adba069cc150"
   },
   {
     "url": "guide/getting-started.html",
-    "revision": "22fe4133315e9cd06cdd4ef8a20444a3"
+    "revision": "b4be8aff97fa9a091df65d2e6335b47d"
   },
   {
     "url": "guide/i18n.html",
-    "revision": "cbe8069c41a02ccb0510ddbb608b5895"
+    "revision": "39ea781b211c17c78093e4db5bace0a9"
   },
   {
     "url": "guide/index.html",
-    "revision": "2a8aa6a95aff923e152645c12e52ecbb"
+    "revision": "f0c1646af578c56b363a247e03d4564d"
   },
   {
     "url": "guide/markdown.html",
-    "revision": "26ac5e9157351f5af88543b5c8885e5c"
+    "revision": "420f38e2e50a351e3e96df0772d94dd7"
   },
   {
     "url": "guide/using-vue.html",
-    "revision": "e12df2bb7459b42ccc1d9feda47a42a5"
+    "revision": "04e47e3ae936885dd893a814a83a6baf"
   },
   {
     "url": "hero.png",
@@ -397,7 +397,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "53031ece26a1591e0923009762fd5f16"
+    "revision": "4ac745b55aa11a8c1cf1c8d58ccf8d91"
   },
   {
     "url": "line-numbers-desktop.png",
@@ -413,107 +413,107 @@ self.__precacheManifest = [
   },
   {
     "url": "web/BOM.html",
-    "revision": "347a2ce0272a29d9db2eaff6b2f57b08"
+    "revision": "a2390947e3b12c3b127facd29950dadf"
   },
   {
     "url": "web/console.html",
-    "revision": "5e7db484af9b8ed3133f1f0a8abf88b1"
+    "revision": "71425980a891bfefe5c89da7b5ab80a3"
   },
   {
     "url": "web/css.html",
-    "revision": "65078cb074be4eb3c25b027987693ec6"
+    "revision": "637a386071f79daf72b9945c25e0dfa0"
   },
   {
     "url": "web/data-structure.html",
-    "revision": "21ca59235f1c0b65e4cf1f5515240447"
+    "revision": "55a58a849ca048bb6e02a546df2c6c99"
   },
   {
     "url": "web/git.html",
-    "revision": "e398b4778e8650461d58adafa4663a33"
+    "revision": "b224abbe20a59ae5ed234c53b0ce9f57"
   },
   {
     "url": "web/HTTP.html",
-    "revision": "8cd1b343b2d7fe0b3671b49a770784ec"
+    "revision": "7c870c588d3c7939d9fd18f1cd3fccdc"
   },
   {
     "url": "web/index.html",
-    "revision": "67a89f70109e2e0571626198a9c77f22"
+    "revision": "0c62cdb61a7b10772ad1427233fdbde0"
   },
   {
     "url": "web/JavaScript.html",
-    "revision": "11f6c7ef02b739ecff5c187119915a71"
+    "revision": "3374aa6f61887796cfc82b6198b0fb13"
   },
   {
     "url": "web/mobile.html",
-    "revision": "d31799afa841afe3ae70e924b9f17d19"
+    "revision": "0139e6f59fb1ce1666f9c8c7cc03ba0b"
   },
   {
     "url": "web/mode.html",
-    "revision": "e17112d57b5ebbbee8ac11c7a8d5afa6"
+    "revision": "90a6c20583d16d044ee34c981d069507"
   },
   {
     "url": "web/model.html",
-    "revision": "4dfd4bd4abf108a1215bc8d5b6ba345a"
+    "revision": "effe64c8987f65ccf2c1d0678b57f3ac"
   },
   {
     "url": "web/MongoDB.html",
-    "revision": "646a30e8448c198511a5c7a108c61bf2"
+    "revision": "060056b3a65f0ccf375b336cf12a27c7"
   },
   {
     "url": "web/test.html",
-    "revision": "633d0f0cd1bb13a34d871ec94c73db6a"
+    "revision": "02490e08010873f155775e6e29b81c0b"
   },
   {
     "url": "web/webpack.html",
-    "revision": "b84ccf6734e8467dd2c6f9ff94cc1656"
+    "revision": "0c9a62fd4a86984aea4cf9bdbaff5ac1"
   },
   {
     "url": "zh/config/index.html",
-    "revision": "e9923efdead79c8754453e0a2a63d0c8"
+    "revision": "4dc15f9337b688947675078ba490fbaf"
   },
   {
     "url": "zh/default-theme-config/index.html",
-    "revision": "be8b45598e5be4e99ac5dcb3e9cc83aa"
+    "revision": "b1545496047e44f208053c1a2f76304d"
   },
   {
     "url": "zh/guide/assets.html",
-    "revision": "95739ce6164161a45b672bbdf7eb4c78"
+    "revision": "f07c10360eeaa502fbd884de4b33b1a8"
   },
   {
     "url": "zh/guide/basic-config.html",
-    "revision": "93e54bdb22ca2b3341584fad2ecea903"
+    "revision": "b0c26d9e0ed00435c7bf01aad95daa16"
   },
   {
     "url": "zh/guide/custom-themes.html",
-    "revision": "0bf8d55bcf17576e437425cdf614112d"
+    "revision": "d731bb7a921a564b2e561fb080d6cdee"
   },
   {
     "url": "zh/guide/deploy.html",
-    "revision": "e183dbec7a40da6589a5e9dae5b05879"
+    "revision": "d73b455331427a50f6cf3ace84717237"
   },
   {
     "url": "zh/guide/getting-started.html",
-    "revision": "13f8fa5432052add5d2df718c7aa3544"
+    "revision": "ac349433c0923f87b7f332b49ceeac27"
   },
   {
     "url": "zh/guide/i18n.html",
-    "revision": "47010b5925e6d0fc76d3ea349ed86d4a"
+    "revision": "b86ba0d1b9df26e7a72d9df10de59523"
   },
   {
     "url": "zh/guide/index.html",
-    "revision": "b76ba14373ea9913f5b2aee1907eda3b"
+    "revision": "a4eb39a56a272a0802567305225bbf80"
   },
   {
     "url": "zh/guide/markdown.html",
-    "revision": "799840fac88dae554abb1a4f3129e8f8"
+    "revision": "44ea47a34d7ca20b08e7c728dba5ed17"
   },
   {
     "url": "zh/guide/using-vue.html",
-    "revision": "7a04cc21e1372b7859bc69dd7fb22fb3"
+    "revision": "979621e67c95ddfe13fddef8f9449e5c"
   },
   {
     "url": "zh/index.html",
-    "revision": "8b9f04c1cf146585e1fc001b67d59fb8"
+    "revision": "b8074f4d92ce9d1313ba83f1511ed560"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
